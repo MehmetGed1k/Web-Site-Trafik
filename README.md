@@ -4,6 +4,7 @@ Web Site Trafik Çekme
 Gerekli Kütüphaneler
 
 pip install requests playwright
+
 playwright install
 
 Hedef Web Sitesine Sock Proxy Kullanarak Direkt Olarak Erişim Sağlar Erişim Sırasında Bağlanılan Proxy Adresleri Hangi Ülkeye Ait İse İlkolarak Bunu Analiz Eder
